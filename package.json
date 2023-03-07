@@ -1,7 +1,11 @@
 {
+  "type": "module",
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
-    "dayjs": "^1.11.5"
+    "dayjs": "^1.11.5",
+    "line-reader": "^0.4.0",
+    "node-schedule": "^2.1.0",
+    "read-last-lines": "^1.8.0"
   }
 }
