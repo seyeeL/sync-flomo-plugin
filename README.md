@@ -3,7 +3,9 @@
 ✨ 同步 flomo 笔记至本地 markdown。
 因为现在没有使用 logseq 了，所以插件 [seyeeL/logseq-flomo-plugin: Sync flomo to logseq](https://github.com/seyeeL/logseq-flomo-plugin) 不再更新，改成使用 node 同步。
 
-目前是新建一个文件夹，按天生成 markdown 文件。
+运行 `flomo_all` 是所有内容放在一页，运行 `flomo_date` 是按天同步。
+
+[按步骤的教程](./doc/教程.md)
 
 ## 💡 常见问题
 
